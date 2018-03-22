@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1510949503 source:c:\users\rabbit\documents\learningcpp\gorgor\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<sstream>
+
